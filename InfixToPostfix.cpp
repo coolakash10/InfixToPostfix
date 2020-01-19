@@ -1,7 +1,7 @@
 /*********************************************************************************************************************
      **
      **  Infix to postfix conversion in C++ using stack and linked list
-     **  Input Postfix expression must be in a desired format. 
+     **  Input Infix expression must be in a desired format. 
      **  Operands and operator, both must be single character.
      **  Only '+'  ,  '-'  , '*', '/'  operators are expected. 
      
